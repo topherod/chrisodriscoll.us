@@ -88,8 +88,8 @@ html, body, div, span, applet, object, iframe,
       .shows-title, .location {
         text-transform: uppercase;
       }
-      .instagram-logo {
-        margin-bottom: 30px;
+      .instagram-logo, .spotify-logo {
+        margin: 0 20px 30px 20px;
         width: 60px;
       }
       .venmo-logo {
