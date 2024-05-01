@@ -154,3 +154,7 @@ html, body, div, span, applet, object, iframe,
         display: inline-block;
         width: 20px;
       }
+      .live-event-info.ended {
+          text-decoration: line-through;
+          opacity: .5;
+      }
