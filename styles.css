@@ -162,3 +162,9 @@ html, body, div, span, applet, object, iframe,
           color: #fff;
           margin: 10px;
       }
+      .video-section {
+            margin-bottom: 50px;
+      }
+      .video-section iframe {
+            max-width: 100%;
+      }
