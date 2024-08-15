@@ -169,7 +169,9 @@ html, body, div, span, applet, object, iframe,
             max-width: 100%;
       }
       a.past-performance-link {
+            color: #333;
             font-weight: 500;
             text-decoration: underline;
             text-transform: uppercase;
+            transition: all .3s ease;
       }
