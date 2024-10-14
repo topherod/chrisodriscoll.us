@@ -175,3 +175,7 @@ html, body, div, span, applet, object, iframe,
             text-transform: uppercase;
             transition: all .3s ease;
       }
+      .store-title {
+            margin-bottom: 40px;
+            font-size: 2em;
+      }
